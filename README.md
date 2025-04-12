@@ -10,7 +10,7 @@
 
 ## Инструменты, с которыми работаю:
 ### &#128194; Тестовая документация:
-![Jira](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Jira-small_2.png)
+![Jira](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/Tools/Jira.png)
 ### &#127760; Тестирование веб-приложений:
 
 ### &#128241; Тестирование мобильных приложений:
