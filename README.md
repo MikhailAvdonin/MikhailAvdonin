@@ -1,4 +1,4 @@
-[![Header](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/start.jpg)](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/kit.gif)
+[![Header](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/start.jpg)](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/kitty.gif)
 
 ОБО МНЕ (2-3 СТРОЧКИ)
 
