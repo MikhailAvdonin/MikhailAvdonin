@@ -16,13 +16,20 @@
 ![QASE](https://img.shields.io/badge/QASE-black?style=for-the-badge&logo=qase&logoColor=4F46DC)
 ![Figma](https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=figma)
 ### &#127760; Тестирование веб-приложений:
-
+![DevTools](https://img.shields.io/badge/DEVTOOLS-black?style=for-the-badge&logo=DevTool)
+![Postman](https://img.shields.io/badge/POSTMAN-black?style=for-the-badge&logo=postman)
+![SOAPui](https://img.shields.io/badge/SOAP-black?style=for-the-badge&logo=soapui)
 ### &#128241; Тестирование мобильных приложений:
-
+![Android-Studio](https://img.shields.io/badge/ANDROIDSTUDIO-black?style=for-the-badge&logo=android)
+![Xcode](https://img.shields.io/badge/XCODE-black?style=for-the-badge&logo=xcode)
+![Charles-proxy](https://img.shields.io/badge/CHARLESPROXY-black?style=for-the-badge&logo=charles)
+![Fiddler](https://img.shields.io/badge/FIDDLER-black?style=for-the-badge&logo=fiddler)
 ### &#128221; Работа с данными:
-
+![MySQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=mysql)
 ### &#128189; Работа с кодом:
-
+![GIT](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
+![Bash](https://img.shields.io/badge/BASH-black?style=for-the-badge&logo=bash)
+![VScode](https://img.shields.io/badge/VSCODE-black?style=for-the-badge&logo=vscode)
 
 ## Как связаться со мной:
 [![Telegram](https://img.shields.io/badge/TELEGRAM-757575?style=for-the-badge&logo=telegram)](https://t.me/MikhailAvdonin)
