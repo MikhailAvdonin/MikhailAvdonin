@@ -5,8 +5,11 @@
 
 &#128316; Кликни на любую ссылку из раздела «Портфолио», чтобы увидеть детали проектов.
 
-## &#129520; Портфолио:
+## &#128230; Портфолио:
+сюда ссылки на другие репозитории
 
 ИНСТРУМЕНТЫ, КОТОРЫЕ Я ИСПОЛЬЗУЮ (КАРТИНКИ ИЛИ КАРТИНКИ С НАДПИСЯМИ)
 
-СВЯЗАТЬСЯ СО МНОЙ (ССЫЛКА НА ТГ)
+## Как связаться со мной:
+[![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram)](https://t.me/MikhailAvdonin)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:avdonin.mf@gmail.com)
