@@ -10,7 +10,11 @@
 
 ## Инструменты, с которыми работаю:
 ### &#128194; Тестовая документация:
-![Jira](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/Tools/Jira.png)
+![Jira](https://img.shields.io/badge/JIRA-black?style=for-the-badge&logo=jira&logoColor=2584FF)
+![YouTrack](https://img.shields.io/badge/YouTrack-black?style=for-the-badge&logo=youtrack)
+![Test-it](https://img.shields.io/badge/TESTit-black?style=for-the-badge&logo=testit)
+![QASE](https://img.shields.io/badge/QASE-black?style=for-the-badge&logo=qase&logoColor=4F46DC)
+![Figma](https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=figma)
 ### &#127760; Тестирование веб-приложений:
 
 ### &#128241; Тестирование мобильных приложений:
@@ -21,5 +25,5 @@
 
 
 ## Как связаться со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-757575?style=for-the-badge&logo=telegram)](https://t.me/MikhailAvdonin)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-757575?style=for-the-badge&logo=telegram)](https://t.me/MikhailAvdonin)
 [![Gmail](https://img.shields.io/badge/avdonin.mf@gmail.com-757575?style=for-the-badge&logo=gmail)](mailto:avdonin.mf@gmail.com)
