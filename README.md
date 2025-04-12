@@ -23,5 +23,5 @@
 
 
 ## Как связаться со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram)](https://t.me/MikhailAvdonin)
-[![Gmail](https://img.shields.io/badge/avdonin.mf@gmail.com-white?style=for-the-badge&logo=gmail)](mailto:avdonin.mf@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-757575?style=for-the-badge&logo=telegram)](https://t.me/MikhailAvdonin)
+[![Gmail](https://img.shields.io/badge/avdonin.mf@gmail.com-757575?style=for-the-badge&logo=gmail)](mailto:avdonin.mf@gmail.com)
