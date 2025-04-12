@@ -12,4 +12,4 @@
 
 ## Как связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram)](https://t.me/MikhailAvdonin)
-[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](<a href="avdonin.mf@gmail.com">)
+[![Gmail](https://img.shields.io/badge/avdonin.mf@gmail.com-white?style=for-the-badge&logo=gmail)](mailto:avdonin.mf@gmail.com)
