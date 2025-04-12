@@ -11,6 +11,8 @@
 ## Инструменты, с которыми работаю:
 ### &#128194; Тестовая документация:
 ![Jira](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Jira.png)
+![Jira](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Jira-small.png)
+![Jira](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Jira-small.png)
 ### &#127760; Тестирование веб-приложений:
 
 ### &#128241; Тестирование мобильных приложений:
