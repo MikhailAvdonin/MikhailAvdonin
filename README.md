@@ -10,6 +10,11 @@
 
 ## Инструменты:
 ![Postman](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Postman.svg)
+![Postman](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Postman.svg)
+![Postman](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Postman.svg)
+![Postman](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Postman.svg)
+![Postman](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Postman.svg)
+![Postman](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Postman.svg)
 
 ## Как связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram)](https://t.me/MikhailAvdonin)
