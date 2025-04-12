@@ -13,6 +13,9 @@
 ![Jira](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Jira.png)
 ![Jira](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Jira-small.png)
 ![Jira](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Jira-small.png)
+![Jira](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Jira-small_2.png)
+![Jira](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Jira-small_2.png)
+![Jira](https://github.com/MikhailAvdonin/MikhailAvdonin/blob/main/assets/Jira-small_2.png)
 ### &#127760; Тестирование веб-приложений:
 
 ### &#128241; Тестирование мобильных приложений:
